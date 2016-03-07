@@ -1,6 +1,6 @@
 name: Test-Ryan
 favicon: null
-layout_spectrum: 0.5977093284018338
+layout_spectrum: 1
 typography_spectrum: 0.9148328497540206
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#40546c'
+    - '#a69c8a'
+    - '#bfb6aa'
+    - '#8c2727'
+    - '#23355a'
   brandStrength: 0.7719108550809324
   lightness: 0.11730007617734373
   saturation: 0.534181846305728
